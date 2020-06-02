@@ -47,10 +47,6 @@ Finite-State Machines: Theory and Implementation
 Credits
 =======
 
-Characters and prototype textures by Kenney
-- https://www.kenney.nl/assets/animated-characters
-- https://www.kenney.nl/assets/prototype-textures
-
 Uses Gonkee's joystick script for Godot 3
 - https://youtu.be/uGyEP2LUFPg
 
