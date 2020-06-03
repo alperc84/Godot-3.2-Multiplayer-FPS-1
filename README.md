@@ -26,6 +26,7 @@ Description
 First person shooter with a multiplayer. Includes a seperate project for server and one for client. 
 To play over the internet in the main scene properties (client project) there's an exposed parameter for a public IP address, set to localhost by default.
 Port 27015 (an arbitrary number, can be changed in the code) must be accessible through the firewall or in the router settings and not blocked by ISP (Internet Service Provider).
+Make sure to run the server project first, then click "Play" on the client.
 
 Preview
 =======
